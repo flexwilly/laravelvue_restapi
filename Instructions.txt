@@ -1,0 +1,14 @@
+Good evening, This project has 2 parts:
+The laravel part is: test-app
+The vuejs part is: vue-project
+
+The project does not have a login form nor a sign up form
+Once you forlk the project from git hub serve both the laravel
+and the vue js part
+
+To get the data for the user perform a db seed in the laravel section
+The line of code for seeding the user relation has been provided and 
+it creates 10 new records
+
+Warm regards,
+Wilson Onjore,
